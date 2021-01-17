@@ -2,8 +2,8 @@
 CanFoo(仮)
 
 ## サイト概要
-登録ユーザーがキャンプ飯の情報を投稿する共有サイト。
-管理者は一定期間ごとにキャンプ関連のコラムを投稿する。(キャンプ地やキャンプグッズ情報)
+登録ユーザーがキャンプ飯の情報を投稿する共有サイト。  
+管理者は一定期間ごとにキャンプ関連のコラムを投稿する。(キャンプ地やキャンプグッズ情報)  
 調理器具のカテゴリーごとにキャンプ飯情報を確認することが出来る。また、未登録ユーザーもサイト閲覧は可能。
 
 ### サイトテーマ
@@ -23,8 +23,8 @@ CanFoo(仮)
 ## 設計書
 <...>
 
-## チャレンジ要素一覧
-https://docs.google.com/spreadsheets/d/16r-O6PAL3GNNyiQcqRmPTuSUTuY5tmr_w3bfG0CXZ5o/edit#gid=0
+## チャレンジ要素一覧  
+https://docs.google.com/spreadsheets/d/16r-O6PAL3GNNyiQcqRmPTuSUTuY5tmr_w3bfG0CXZ5o/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/16r-O6PAL3GNNyiQcqRmPTuSUTuY5tmr_w3bfG0CX
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery
 - 環境：Docker
-− エディタ：VScode
+- エディタ：VScode
 
 ## 使用素材
 https://www.photo-ac.com/  
