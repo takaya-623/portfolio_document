@@ -21,9 +21,9 @@ CanFoo(仮)
 キャンプの予定を立て、キャンプ飯を何にするかを決めたいとき
 
 ## 設計書
-<...>
 
-## チャレンジ要素一覧  
+
+## 機能一覧  
 https://docs.google.com/spreadsheets/d/16r-O6PAL3GNNyiQcqRmPTuSUTuY5tmr_w3bfG0CXZ5o/edit?usp=sharing
 
 ## 開発環境
